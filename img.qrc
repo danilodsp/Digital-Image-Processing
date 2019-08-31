@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imagens/PDI.ico</file>
+        <file>imagens/logo.jpg</file>
+        <file>imagens/ufrn.jpg</file>
+    </qresource>
+</RCC>
